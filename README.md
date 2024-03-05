@@ -1,2 +1,2 @@
 # cs391
-mini projects + final project
+Web App Development Projects from CS 391
